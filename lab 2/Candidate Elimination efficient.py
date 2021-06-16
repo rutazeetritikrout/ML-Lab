@@ -2,7 +2,7 @@
 """
 Created on Wed Mar 24 15:40:09 2021
 
-@author: rutazeet
+@author: rutaz
 """
 
 import csv
